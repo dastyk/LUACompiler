@@ -10,4 +10,4 @@ This has not been tested in about 2 years, but I belive it worked like this.
 * run comp Testcase.lua
 * Then we cheat and use gcc to build the assembly (target.s) into an executable
 
-Those who know assembly and wants to kill me because the asm code looks --- keep in mind that I did this in the span of 2 weeks and I had never writen a single line of assembly.
+Those who know assembly and wants to kill me because the asm code looks --- keep in mind that I did this in the span of 2 weeks and I had never written a single line of assembly.
