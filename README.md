@@ -1,5 +1,6 @@
 # LUACompiler
-A compiler written in C++ which takes LUA code and outputs assembly
+A LUA compiler written in C++ which takes LUA code and outputs assembly.
+This was for a school project.
 
 The grammar supports the full LUA language. (I think)
 The compiler does not support everything.
